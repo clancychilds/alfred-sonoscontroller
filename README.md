@@ -1,3 +1,5 @@
+# Add file .alfredworkflow to be easly imported in Alfred 
+
 # Alfred Sonos Controller
 
 > Control playback of your Sonos speakers straight from Alfred!
